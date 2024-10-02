@@ -12,7 +12,7 @@ const Rewards = () => {
     <StyledComponent>
       <TextTitle>DAILY REWARDS</TextTitle>
       <TextDescription>
-        Play everyday to get 50 Flappy Bee tokens on day 7
+        Play everyday to get 50 Flappy tokens on day 7
       </TextDescription>
       <SectionSelectRewards>
         <SectionScroll>

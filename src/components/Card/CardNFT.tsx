@@ -10,7 +10,7 @@ const CardNFT = ({ data }: any) => {
       <SectionBorderImage>MORE INFO</SectionBorderImage>
       <SectionCommonDetails>
         <TextCommon>Common</TextCommon>
-        <TextNFTName>FlappyBee #{data + 1}</TextNFTName>
+        <TextNFTName>Flappy #{data + 1}</TextNFTName>
       </SectionCommonDetails>
       <SectionOtherDetails>
         <TextComingSoon>Coming Soon</TextComingSoon>

@@ -1,12 +1,12 @@
 export const textAirdropParticipate = [
-  // "1. Visit flappybee.com",
+  // "1. Visit flappy.com",
   // "2. Connect your wallet with Metamask.",
   // "3. If your wallet eligible to claim the airdrop you will be able to claim Free $BEET Tokens.",
   // "4. Users who own $PEPE before May 8th are eligible to claim the airdrop.",
   // "5. Claimed $BEET will be locked for 60 days on your wallet before it can be spend",
-  "1. Visit FlappyBee.com: Head to our website and prepare for takeoff.",
+  "1. Visit flappy.com: Head to our website and prepare for takeoff.",
   "2. Connect Your Wallet: To participate, connect your wallet securely on the FlappyBee platform. This is crucial for tracking your progress and distributing your rewards.",
-  "3. Play Flappy Bee on BNB Testnet: Start your adventure by playing our captivating game on the BNB Testnet. Help Flappy, the heroic bee, navigate through obstacles and protect the queen.",
+  "3. Play Flappy on Solana devnet: Start your adventure by playing our captivating game on the Solana devnet. Help Flappy, the heroic bee, navigate through obstacles and protect the queen.",
 ];
 
 export const textAirdropPeriod = [

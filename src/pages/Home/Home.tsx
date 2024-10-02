@@ -47,7 +47,7 @@ const Home = () => {
             return NotificationManager.warning(res1.msgError, "", 5000);
           }
         });
-        // window.open("https://app.flappybee.com/#/game", "_self");
+        // window.open("https://app.flappy.com/#/game", "_self");
         return;
       } else {
         return NotificationManager.warning(
@@ -84,7 +84,7 @@ const Home = () => {
     >
       <SectionTitle>
         <SectionTextTitle>
-          <TextTitle>Flappy Bee</TextTitle>
+          <TextTitle>Flappy</TextTitle>
         </SectionTextTitle>
         <SectionImageLogo>
           <img src={imgLogoBee} width={"100%"} height={"100%"} alt="" />

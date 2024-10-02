@@ -1,7 +1,7 @@
 export const textTermsOfUse = [
   {
     textHead: "1. Introduction",
-    textBody: `Welcome to flappybee.com ("Website") and the associated web3 game available at app.flappybee.com ("Game"). These Terms of Service ("Terms") govern your use of our services. By accessing or using our services, you agree to be bound by these Terms. If you do not agree to these Terms, please do not use our services.`,
+    textBody: `Welcome to flappy.com ("Website") and the associated web3 game available at app.flappy.com ("Game"). These Terms of Service ("Terms") govern your use of our services. By accessing or using our services, you agree to be bound by these Terms. If you do not agree to these Terms, please do not use our services.`,
   },
   {
     textHead: "2. Utility Token (BEET Token)",
@@ -51,6 +51,6 @@ export const textTermsOfUse = [
   {
     textHead: "11. Contact Us",
     textBody:
-      "If you have any questions or concerns regarding these Terms of Service, please contact us at tos@flappybee.com",
+      "If you have any questions or concerns regarding these Terms of Service, please contact us at tos@flappy.com",
   },
 ];

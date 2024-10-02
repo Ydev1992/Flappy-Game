@@ -44,7 +44,7 @@ const MintRules = () => {
           data-aos-duration="1000"
           data-aos-once="true"
         >
-          You can earn free $BEET by playing FlappyBee game during FREE MINT
+          You can earn free $BEET by playing Flappy game during FREE MINT
           event!
         </TextHeadGuide>
         <TextHead
@@ -80,20 +80,20 @@ const MintRules = () => {
           <TextEachGuide>
             1. Visit{" "}
             <a
-              href="https://flappybee.com"
+              href="#"
               target="_blank"
               rel="noopener noreferrer"
               style={{ textDecoration: "underline", color: "#1DA0FF" }}
             >
-              flappybee.com
+              flappy.com
             </a>
             <br />
             2. Connect your wallet.
             <br />
-            3. Ensure you have selected the BNB Test network (for instructions
-            on switching to BNB Testnet, please refer to :{"\u00a0"}
+            3. Ensure you have selected the Solana devnet (for instructions
+            on switching to Solana devnet, please refer to :{"\u00a0"}
             <a
-              href="https://flappybee.com"
+              href="#"
               target="_blank"
               rel="noopener noreferrer"
               style={{ textDecoration: "underline", color: "#1DA0FF" }}
@@ -102,7 +102,7 @@ const MintRules = () => {
             </a>
             )
             <br />
-            4. Play the game and record your score on BNB Test network.
+            4. Play the game and record your score on Solana devnet.
             <br />
             5. Your score multiplied by 10% will determine your reward on the
             mainnet. For instance, if you score{" "}

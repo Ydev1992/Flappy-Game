@@ -68,7 +68,7 @@ const ModalStake = () => {
 
     if (balanceBNB <= 0) {
       return NotificationManager.error(
-        "You don't have enough BNB to process transaction.",
+        "You don't have enough SOL to process transaction.",
         "",
         3000
       );

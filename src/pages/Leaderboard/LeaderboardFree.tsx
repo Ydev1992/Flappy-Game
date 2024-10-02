@@ -129,13 +129,13 @@ const LeaderboardFree = () => {
       <SectionTop>
         <TextTitle>Leaderboard</TextTitle>
         <TextDescription>
-          This is the world leaderboard of the game Flappy Bee.
+          This is the world leaderboard of the game Flappy.
           <br />
           Want to your name on the leaderboard? Play the game now!
         </TextDescription>
         <SectionButtonGroup>
           <a
-            href="https://flappybee.com/"
+            href="#"
             target="_blank"
             rel="noopener noreferrer"
             style={{ textDecoration: "none" }}

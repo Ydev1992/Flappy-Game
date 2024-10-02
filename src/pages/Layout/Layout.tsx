@@ -296,7 +296,7 @@ const Layout = ({ children, setPlayMusicGame }: any) => {
           {"\u00a0"}
           {"\u00a0"}
           {flagDisplayFooter === 0
-            ? "📢 Flappy Bee game is optimized on Google Chrome / Firefox / Brave"
+            ? "📢 Flappy game is optimized on Google Chrome / Firefox / Brave"
             : "🐝 BEET Game Is now live! Start play and earn some BEET!"}
           {"\u00a0"}
           {"\u00a0"}
@@ -560,7 +560,7 @@ const Layout = ({ children, setPlayMusicGame }: any) => {
             >
               Made with{"\u00a0"}
               <FaHeart style={{ color: "#ff1616" }} />
-              {"\u00a0"}on BNB Smart Chain
+              {"\u00a0"}on Solana chain
             </SectionFooterTextETH>
           </SectionFooterSide>
         </SectionFooter>

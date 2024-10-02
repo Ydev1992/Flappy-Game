@@ -71,7 +71,7 @@ const ModalPlayToEarn = ({ flagModalP2E, setFlagModalP2E }: any) => {
     //         return NotificationManager.warning(res1.msgError, "", 5000);
     //       }
     //     });
-    //     // window.open("https://app.flappybee.com/#/game", "_self");
+    //     // window.open("https://app.flappy.com/#/game", "_self");
     //     return;
     //   } else {
     //     return NotificationManager.warning(

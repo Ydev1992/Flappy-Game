@@ -7,7 +7,7 @@ const AboutUs = () => {
       <SectionLeft>
         <TextTitle>About us</TextTitle>
         <TextContent>
-          FlappyBee combines the game charm of "Flappy Bird" with cutting-edge
+          Flappy combines the game charm of "Flappy Bird" with cutting-edge
           Web3 blockchain tech. Join Flappy, the heroic bee, on a daring mission
           to save the queen. As a player, you're the wind beneath Flappy's
           wings.
@@ -25,13 +25,13 @@ const AboutUs = () => {
           optimize customization.
           <br />
           <br />
-          FlappyBee is more than a game; it's also an extra layer of economic
+          Flappy is more than a game; it's also an extra layer of economic
           opportunity. Your playing skills translate into success. Join a
           vibrant community of blockchain gaming enthusiasts.
           <br />
           <br />
           It's time to Embrace this exciting journey with Flappy. Help Flappy
-          rescue the queen and discover the world of FlappyBee. The future of
+          rescue the queen and discover the world of Flappy. The future of
           gaming is here. Let's fly together!
         </TextContent>
       </SectionLeft>

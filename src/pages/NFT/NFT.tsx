@@ -19,9 +19,9 @@ const NFT = () => {
   return (
     <StyledComponent>
       <SectionTop>
-        <TextTitle>Flappy Bee NFTs</TextTitle>
+        <TextTitle>Flappy NFTs</TextTitle>
         <TextDescription>
-          FLAPPY BEE NFTs have total 5 types: Common, Good, Excellent, Rare and
+          FLAPPY NFTs have total 5 types: Common, Good, Excellent, Rare and
           Epic each level will have 20 different NFTs so total 100 NFTs with
           different prices will be coming soon. Owners will receive automatic
           access to airdrop and increase the earning potential of our native

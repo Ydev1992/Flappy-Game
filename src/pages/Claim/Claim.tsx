@@ -14,7 +14,7 @@ const Claim = () => {
   return (
     <StyledComponent>
       <SectionClaim>
-        <TextAirdrop>Flappy Bee Claim</TextAirdrop>
+        <TextAirdrop>Flappy Claim</TextAirdrop>
         <ButtonStart onClick={() => {}}>Claim $BEET</ButtonStart>
       </SectionClaim>
       <SectionDescription>
@@ -28,9 +28,9 @@ const Claim = () => {
           <img src={imgAirdropBee} width={"100%"} alt="" />
         </SectionImageGroup>
         <TextHead data-aos="fade-up" data-aos-duration="2000">
-          If you are ready to come into the exciting world of FlappyBee and win
+          If you are ready to come into the exciting world of Flappy and win
           fantastic rewards? Then lucky you, because here's your golden
-          opportunity! We're delighted to introduce the FlappyBee Airdrop, where
+          opportunity! We're delighted to introduce the Flappy Airdrop, where
           players get the chance to win BEET tokens and NFTs.
           {/* Flappy Bee will airdropping BEET Tokens and BEET NFTs Every months To
           the Flappy Bee holders and first 10 address of the leaderboard. */}
@@ -60,7 +60,7 @@ const Claim = () => {
           })}
         </SectionGuide>
         <TextHeadGuide data-aos="zoom-in" data-aos-duration="1000">
-          FlappyBee Game Eligibility:
+          Flappy Game Eligibility:
         </TextHeadGuide>
         <SectionGuide data-aos="fade-up" data-aos-duration="2000">
           {textAirdropEligibility.map((each, index) => {
@@ -68,10 +68,10 @@ const Claim = () => {
           })}
         </SectionGuide>
         <TextHead data-aos="fade-up" data-aos-duration="2000">
-          It's time to spread your wings and seize your chance in the FlappyBee
+          It's time to spread your wings and seize your chance in the Flappy
           Airdrop? It's an adventure like no other, where you can earn valuable
           tokens and unique NFTs while enjoying our thrilling blockchain-powered
-          game. Don't miss out—connect your wallet, play Flappy Bee, and let the
+          game. Don't miss out—connect your wallet, play Flappy, and let the
           games begin! The true meaning of Play-and-earn!
         </TextHead>
         {/* <TextAirdropRate>

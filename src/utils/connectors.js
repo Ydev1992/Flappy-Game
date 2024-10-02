@@ -13,7 +13,7 @@ const IS_MAINNET = process.env.REACT_APP_NETWORK === "mainnet";
 //   ? "https://etherscan.io"
 //   : "https://goerli.etherscan.io";
 
-const NETWORK_NAME = IS_MAINNET ? "BNB Chain" : "BNB Smart Chain Testnet";
+const NETWORK_NAME = IS_MAINNET ? "Solana Chain" : "Solana devnet";
 const chainId = IS_MAINNET ? 56 : 97;
 const rpcUrl = IS_MAINNET
   ? "https://bsc.publicnode.com"
@@ -22,7 +22,7 @@ const scanUrl = IS_MAINNET
   ? "https://bscscan.com"
   : "https://testnet.bscscan.com";
 
-const symbolBNB = IS_MAINNET ? "BNB" : "tBNB";
+const symbolBNB = IS_MAINNET ? "Sol" : "tSol";
 
 const BINANCE_MAINNET_PARAMS = {
   chainId: chainId,
